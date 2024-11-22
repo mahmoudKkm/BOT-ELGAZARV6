@@ -34,7 +34,7 @@ global.author = "⍣01126012075⍣" //ur sticker watermark author
 global.wm = "❤️𝗔𝗟𝗠𝗔𝗥𝗛𝗘𝗕 ᗷOT❤️." //ur watermark
 
 // Other
-global.sessionName = 'session'
+global.sessionName = 'Y2F2Mlk0Y3g='
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 
